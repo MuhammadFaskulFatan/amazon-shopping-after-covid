@@ -1,0 +1,7 @@
+segment,customers,spend,median_spend,median_shopping_days,avg_recency_days,pct_of_customers,pct_of_spend
+Champions,1304,5360705.2,3384.8,75.0,2.0,26.0,56.4
+Loyal,1044,2201894.7,1594.2,34.0,7.4,20.8,23.2
+Need attention,628,671168.3,894.4,22.0,23.9,12.5,7.1
+Hibernating,1380,561340.8,294.1,7.0,89.2,27.5,5.9
+At risk,197,529247.0,2088.1,47.0,27.3,3.9,5.6
+"Recent, low frequency",293,185441.4,446.9,12.0,2.6,5.8,2.0

@@ -1,0 +1,11 @@
+group,customers_pct,year,real_spend_per_customer,index_2018_19,lo,hi
+Spent more in 2020,64.7,2018,638.5,88.2,86.4,90.0
+Spent more in 2020,64.7,2019,809.4,111.8,110.0,113.6
+Spent more in 2020,64.7,2020,1581.7,218.5,213.0,225.1
+Spent more in 2020,64.7,2021,1769.1,244.4,236.1,254.2
+Spent more in 2020,64.7,2022,1552.2,214.4,206.4,222.3
+Did not spend more in 2020,35.3,2018,954.5,102.3,99.3,105.0
+Did not spend more in 2020,35.3,2019,912.4,97.7,95.0,100.7
+Did not spend more in 2020,35.3,2020,555.5,59.5,57.4,61.7
+Did not spend more in 2020,35.3,2021,963.7,103.2,97.6,109.6
+Did not spend more in 2020,35.3,2022,984.8,105.5,99.4,112.1

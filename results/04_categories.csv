@@ -1,0 +1,214 @@
+category,name,share_2018,share_2019,share_2020,share_2021,share_2022,chg_pre_2019,chg_2020,chg_2022,chg_2020_lo,chg_2020_hi,chg_2022_lo,chg_2022_hi,spend_per_customer_2022_vs_2019_pct,label,vs_average_growth_pts
+CHAIR,Chair,0.54,0.55,0.84,0.75,0.63,0.01,0.29,0.08,0.06,0.53,-0.14,0.29,96.77,Temporary spike,36.96
+MEDICATION,Medication,0.39,0.43,0.62,0.59,0.71,0.04,0.19,0.28,0.12,0.27,0.18,0.37,181.23,Sticky,121.42
+MONITOR,Monitor,0.71,0.66,0.85,0.69,0.58,-0.05,0.19,-0.08,-0.12,0.48,-0.38,0.18,50.14,No clear change,-9.67
+COFFEE,Coffee,0.45,0.48,0.66,0.61,0.67,0.03,0.18,0.2,0.07,0.28,0.08,0.32,142.03,Sticky,82.22
+CLEANING_AGENT,Cleaning Agent,0.24,0.29,0.42,0.35,0.39,0.05,0.13,0.1,0.08,0.18,0.04,0.14,130.01,Sticky,70.2
+DRINK_FLAVORED,Drink Flavored,0.19,0.27,0.4,0.57,0.66,0.08,0.13,0.39,0.02,0.23,0.23,0.56,321.03,Sticky,261.22
+PROTECTIVE_GLOVE,Protective Glove,0.08,0.06,0.17,0.11,0.08,-0.02,0.11,0.03,0.06,0.2,0.0,0.05,152.94,Partly retained,93.13
+FOOD,Food,0.12,0.15,0.25,0.31,0.37,0.02,0.11,0.22,0.04,0.17,0.14,0.36,337.34,Sticky,277.53
+ART_CRAFT_KIT,Art Craft Kit,0.1,0.12,0.23,0.18,0.18,0.02,0.11,0.06,0.03,0.17,-0.01,0.13,164.88,Temporary spike,105.07
+TOY_BUILDING_BLOCK,Toy Building Block,0.25,0.2,0.31,0.21,0.22,-0.05,0.11,0.02,0.01,0.23,-0.05,0.1,86.64,Temporary spike,26.83
+PET_FOOD,Pet Food,1.84,1.95,2.05,1.89,2.16,0.11,0.1,0.21,-0.13,0.37,-0.09,0.57,90.63,No clear change,30.82
+SKIN_CLEANING_AGENT,Skin Cleaning Agent,0.35,0.36,0.45,0.35,0.39,0.01,0.09,0.04,0.03,0.15,-0.02,0.09,89.99,Temporary spike,30.18
+THERMOMETER,Thermometer,0.07,0.09,0.17,0.1,0.09,0.02,0.09,-0.0,0.05,0.12,-0.03,0.03,71.5,Temporary spike,11.69
+NETWORKING_ROUTER,Networking Router,0.36,0.27,0.36,0.27,0.2,-0.09,0.08,-0.07,-0.04,0.21,-0.19,0.05,27.7,No clear change,-32.11
+PORTABLE_ELECTRONIC_DEVICE_COVER,Portable Electronic Device Cover,0.29,0.29,0.37,0.35,0.28,0.0,0.08,-0.0,0.01,0.15,-0.05,0.04,68.86,Temporary spike,9.05
+PUZZLES,Puzzles,0.08,0.07,0.14,0.11,0.13,-0.01,0.07,0.05,0.04,0.1,0.02,0.09,197.49,Sticky,137.68
+BATTERY,Battery,0.35,0.35,0.43,0.4,0.41,0.0,0.07,0.06,-0.01,0.19,-0.02,0.13,99.75,No clear change,39.94
+LAMP,Lamp,0.26,0.27,0.34,0.43,0.36,0.0,0.07,0.09,0.0,0.14,0.02,0.16,129.72,Sticky,69.91
+MASSAGER,Massager,0.14,0.18,0.25,0.34,0.28,0.04,0.07,0.1,-0.01,0.16,0.02,0.16,162.36,No clear change,102.55
+NUT_AND_SEED,Nut And Seed,0.09,0.1,0.17,0.16,0.14,0.01,0.07,0.04,0.03,0.12,0.0,0.09,148.9,Sticky,89.09
+SAUCE,Sauce,0.08,0.07,0.13,0.12,0.12,-0.01,0.06,0.05,0.03,0.08,0.02,0.08,182.44,Sticky,122.63
+STRING_LIGHT,String Light,0.16,0.17,0.23,0.21,0.17,0.01,0.06,-0.0,0.0,0.11,-0.06,0.05,70.86,Temporary spike,11.05
+PAINT,Paint,0.09,0.13,0.19,0.13,0.16,0.04,0.06,0.03,0.0,0.11,-0.03,0.12,115.97,Temporary spike,56.16
+SNACK_CHIP_AND_CRISP,Snack Chip And Crisp,0.09,0.1,0.17,0.15,0.19,0.01,0.06,0.08,0.02,0.1,0.04,0.13,204.96,Sticky,145.15
+VITAMIN,Vitamin,0.44,0.51,0.56,0.46,0.47,0.06,0.06,-0.03,-0.06,0.15,-0.14,0.06,60.34,No clear change,0.53
+STORAGE_RACK,Storage Rack,0.1,0.1,0.14,0.16,0.14,-0.0,0.05,0.05,0.0,0.09,0.0,0.09,152.1,Sticky,92.29
+SHELF,Shelf,0.24,0.29,0.34,0.39,0.43,0.05,0.05,0.14,-0.04,0.14,0.05,0.25,156.64,No clear change,96.83
+FOOD_STORAGE_CONTAINER,Food Storage Container,0.2,0.19,0.24,0.28,0.28,-0.01,0.05,0.09,-0.01,0.1,0.04,0.14,151.11,No clear change,91.3
+ART_SUPPLIES,Art Supplies,0.08,0.1,0.15,0.14,0.11,0.02,0.05,0.01,0.01,0.09,-0.03,0.05,92.3,Temporary spike,32.48
+RUG,Rug,0.35,0.31,0.35,0.41,0.38,-0.04,0.04,0.07,-0.06,0.15,-0.04,0.18,112.41,No clear change,52.6
+SKIN_TREATMENT_MASK,Skin Treatment Mask,0.11,0.1,0.14,0.14,0.14,-0.01,0.04,0.04,0.01,0.07,0.0,0.07,133.44,Sticky,73.63
+UNDERPANTS,Underpants,0.29,0.3,0.34,0.37,0.35,0.01,0.04,0.05,-0.02,0.09,-0.0,0.11,101.51,No clear change,41.7
+TOILET_PAPER,Toilet Paper,0.25,0.28,0.32,0.24,0.27,0.03,0.04,-0.01,-0.02,0.09,-0.08,0.05,63.35,No clear change,3.54
+PET_TOY,Pet Toy,0.15,0.15,0.18,0.21,0.22,0.0,0.04,0.08,-0.01,0.08,0.03,0.12,158.77,No clear change,98.96
+PORTABLE_ELECTRONIC_DEVICE_STAND,Portable Electronic Device Stand,0.1,0.09,0.12,0.12,0.11,-0.01,0.04,0.02,0.01,0.07,-0.01,0.05,113.72,Temporary spike,53.91
+PET_FEEDER,Pet Feeder,0.09,0.06,0.11,0.12,0.12,-0.02,0.04,0.06,0.01,0.08,0.03,0.1,229.18,Sticky,169.37
+PLANT_SEED,Plant Seed,0.13,0.12,0.16,0.16,0.17,-0.01,0.04,0.05,-0.0,0.08,-0.0,0.14,146.94,No clear change,87.13
+CADDY,Caddy,0.14,0.16,0.2,0.23,0.25,0.02,0.04,0.09,-0.0,0.08,0.05,0.14,165.84,No clear change,106.03
+HERBAL_SUPPLEMENT,Herbal Supplement,0.41,0.42,0.46,0.44,0.38,0.01,0.04,-0.04,-0.05,0.12,-0.14,0.05,55.66,No clear change,-4.15
+PLUMBING_FIXTURE,Plumbing Fixture,0.14,0.08,0.12,0.12,0.09,-0.06,0.04,0.01,-0.02,0.1,-0.03,0.07,97.56,No clear change,37.75
+PICTURE_FRAME,Picture Frame,0.15,0.14,0.18,0.15,0.17,-0.01,0.04,0.03,-0.01,0.09,-0.02,0.08,108.09,No clear change,48.28
+ADHESIVE_TAPES,Adhesive Tapes,0.12,0.12,0.15,0.15,0.15,-0.0,0.04,0.03,0.01,0.06,0.0,0.06,118.08,Sticky,58.27
+KEYBOARDS,Keyboards,0.22,0.28,0.31,0.35,0.23,0.06,0.03,-0.05,-0.06,0.12,-0.14,0.03,42.03,No clear change,-17.78
+POWER_STRIP,Power Strip,0.11,0.11,0.14,0.17,0.17,-0.0,0.03,0.06,-0.0,0.07,0.03,0.09,167.39,No clear change,107.58
+COOKIE,Cookie,0.09,0.09,0.12,0.13,0.14,0.0,0.03,0.05,-0.0,0.06,-0.0,0.1,166.46,No clear change,106.65
+TEA,Tea,0.23,0.24,0.27,0.23,0.23,0.01,0.03,-0.01,-0.03,0.08,-0.07,0.04,65.1,No clear change,5.29
+WATER_PURIFICATION_UNIT,Water Purification Unit,0.12,0.1,0.13,0.11,0.08,-0.02,0.03,-0.02,-0.02,0.08,-0.07,0.03,42.16,No clear change,-17.65
+TOWEL,Towel,0.17,0.17,0.2,0.24,0.21,0.0,0.03,0.04,-0.01,0.07,-0.0,0.08,112.14,No clear change,52.33
+HVAC_AIR_FILTER,Hvac Air Filter,0.21,0.22,0.25,0.22,0.26,0.0,0.03,0.04,-0.02,0.09,-0.01,0.1,102.39,No clear change,42.58
+PEST_CONTROL_DEVICE,Pest Control Device,0.08,0.1,0.13,0.13,0.18,0.01,0.03,0.08,-0.02,0.07,0.03,0.12,205.12,No clear change,145.31
+TOOTH_CLEANING_AGENT,Tooth Cleaning Agent,0.09,0.11,0.14,0.11,0.13,0.01,0.03,0.02,0.01,0.05,-0.0,0.05,106.69,Temporary spike,46.88
+SKIN_CLEANING_WIPE,Skin Cleaning Wipe,0.18,0.21,0.24,0.18,0.19,0.03,0.03,-0.02,-0.02,0.08,-0.08,0.02,53.17,No clear change,-6.64
+SHAMPOO,Shampoo,0.16,0.17,0.2,0.16,0.17,0.01,0.03,0.0,-0.0,0.06,-0.04,0.03,73.16,No clear change,13.35
+HAIR_COLORING_AGENT,Hair Coloring Agent,0.09,0.1,0.12,0.11,0.13,0.01,0.03,0.04,-0.01,0.06,-0.0,0.07,134.11,No clear change,74.3
+BREAKFAST_CEREAL,Breakfast Cereal,0.08,0.09,0.12,0.12,0.13,0.01,0.03,0.04,-0.0,0.07,0.0,0.09,157.71,No clear change,97.9
+CONDITIONER,Conditioner,0.14,0.14,0.17,0.15,0.17,0.0,0.03,0.03,-0.02,0.09,-0.01,0.07,107.28,No clear change,47.47
+CHOCOLATE_CANDY,Chocolate Candy,0.11,0.07,0.1,0.13,0.13,-0.04,0.03,0.07,0.0,0.06,0.03,0.09,238.59,Sticky,178.78
+BONDING_ADHESIVES,Bonding Adhesives,0.09,0.09,0.13,0.14,0.14,0.0,0.03,0.05,-0.0,0.06,0.01,0.09,165.85,No clear change,106.04
+ANIMAL_LITTER,Animal Litter,0.21,0.25,0.28,0.23,0.27,0.03,0.03,0.02,-0.03,0.09,-0.06,0.09,85.36,No clear change,25.55
+SCISSORS,Scissors,0.04,0.05,0.07,0.05,0.06,0.01,0.02,0.01,-0.0,0.04,-0.02,0.03,96.11,No clear change,36.3
+STICKER_DECAL,Sticker Decal,0.1,0.11,0.12,0.12,0.14,0.01,0.02,0.03,-0.02,0.05,-0.0,0.06,117.88,No clear change,58.07
+DISHWASHER_DETERGENT,Dishwasher Detergent,0.07,0.07,0.09,0.07,0.08,0.0,0.02,0.01,-0.0,0.03,-0.01,0.03,96.65,No clear change,36.84
+BODY_DEODORANT,Body Deodorant,0.11,0.12,0.14,0.13,0.15,0.01,0.02,0.03,-0.01,0.04,-0.0,0.05,108.77,No clear change,48.96
+CLEANING_BRUSH,Cleaning Brush,0.06,0.08,0.1,0.1,0.11,0.02,0.02,0.03,-0.01,0.04,0.0,0.05,128.9,No clear change,69.09
+SHORTS,Shorts,0.25,0.33,0.35,0.48,0.48,0.08,0.02,0.16,-0.05,0.09,0.07,0.23,153.53,"Old trend, continued",93.72
+WEIGH_SCALE,Weigh Scale,0.17,0.16,0.18,0.14,0.11,-0.01,0.02,-0.05,-0.03,0.07,-0.08,-0.02,15.4,No clear change,-44.41
+SUGAR_CANDY,Sugar Candy,0.15,0.14,0.17,0.18,0.22,-0.01,0.02,0.07,-0.01,0.06,0.02,0.16,161.16,No clear change,101.35
+MINERAL_SUPPLEMENT,Mineral Supplement,0.17,0.2,0.22,0.2,0.21,0.03,0.02,0.01,-0.02,0.07,-0.04,0.06,84.44,No clear change,24.63
+LIGHT_FIXTURE,Light Fixture,0.22,0.24,0.26,0.36,0.33,0.02,0.02,0.1,-0.07,0.13,-0.0,0.2,142.66,No clear change,82.85
+PAPER_TOWEL,Paper Towel,0.15,0.15,0.17,0.14,0.14,-0.0,0.02,-0.01,-0.02,0.06,-0.05,0.03,62.8,No clear change,2.99
+POTABLE_WATER_FILTER,Potable Water Filter,0.23,0.22,0.24,0.23,0.25,-0.02,0.02,0.04,-0.03,0.07,-0.02,0.09,101.3,No clear change,41.49
+OUTDOOR_LIVING,Outdoor Living,0.46,0.43,0.44,0.4,0.41,-0.03,0.02,-0.02,-0.1,0.13,-0.14,0.09,65.59,No clear change,5.78
+PILLOW,Pillow,0.14,0.2,0.22,0.25,0.22,0.06,0.02,0.02,-0.04,0.08,-0.03,0.07,88.84,No clear change,29.03
+INPUT_MOUSE,Input Mouse,0.24,0.2,0.23,0.23,0.23,-0.04,0.02,0.02,-0.04,0.08,-0.04,0.09,92.65,No clear change,32.84
+NETWORK_INTERFACE_CONTROLLER_ADAPTER,Network Interface Controller Adapter,0.12,0.09,0.1,0.08,0.07,-0.04,0.02,-0.02,-0.02,0.05,-0.06,0.01,28.19,No clear change,-31.62
+AREA_DEODORIZER,Area Deodorizer,0.07,0.07,0.1,0.1,0.1,0.01,0.02,0.02,-0.0,0.05,-0.01,0.05,118.02,No clear change,58.21
+CURTAIN,Curtain,0.21,0.3,0.33,0.35,0.31,0.1,0.02,0.01,-0.09,0.13,-0.09,0.11,77.88,No clear change,18.07
+CANDLE,Candle,0.07,0.09,0.1,0.09,0.1,0.02,0.01,0.01,-0.03,0.04,-0.02,0.04,98.45,No clear change,38.64
+HAIR_BRUSH,Hair Brush,0.06,0.06,0.08,0.08,0.08,0.0,0.01,0.02,-0.01,0.03,0.0,0.04,120.56,No clear change,60.75
+BANNER,Banner,0.05,0.05,0.07,0.07,0.07,0.0,0.01,0.02,-0.01,0.04,-0.0,0.04,129.93,No clear change,70.12
+EARRING,Earring,0.09,0.09,0.1,0.1,0.11,-0.0,0.01,0.02,-0.02,0.03,-0.01,0.04,103.96,No clear change,44.15
+HARDWARE_TUBING,Hardware Tubing,0.11,0.12,0.13,0.13,0.14,0.0,0.01,0.02,-0.05,0.06,-0.03,0.07,104.37,No clear change,44.56
+HEADPHONES,Headphones,1.16,1.32,1.33,1.28,1.25,0.16,0.01,-0.08,-0.21,0.22,-0.27,0.12,61.51,No clear change,1.7
+GROCERY,Grocery,0.41,0.35,0.36,0.27,0.31,-0.06,0.01,-0.05,-0.08,0.08,-0.14,0.05,49.69,No clear change,-10.12
+ESSENTIAL_OIL,Essential Oil,0.11,0.08,0.09,0.05,0.06,-0.02,0.01,-0.02,-0.02,0.04,-0.05,0.0,27.78,No clear change,-32.03
+PROFESSIONAL_HEALTHCARE,Professional Healthcare,0.07,0.09,0.1,0.12,0.11,0.02,0.01,0.02,-0.03,0.05,-0.02,0.06,105.32,No clear change,45.51
+POWER_CORD,Power Cord,0.06,0.06,0.07,0.07,0.07,-0.0,0.01,0.01,-0.02,0.04,-0.02,0.04,100.83,No clear change,41.02
+MOUSE_PAD,Mouse Pad,0.05,0.05,0.06,0.06,0.05,-0.0,0.01,0.0,-0.01,0.03,-0.01,0.02,77.19,No clear change,17.38
+KITCHEN,Kitchen,0.34,0.27,0.29,0.25,0.22,-0.06,0.01,-0.05,-0.05,0.07,-0.12,0.0,37.49,No clear change,-22.32
+MARKING_PEN,Marking Pen,0.14,0.12,0.14,0.13,0.13,-0.01,0.01,0.0,-0.01,0.04,-0.03,0.03,72.27,No clear change,12.46
+TOY_FIGURE,Toy Figure,0.38,0.38,0.4,0.48,0.48,0.01,0.01,0.1,-0.09,0.11,0.0,0.2,116.49,No clear change,56.68
+WALL_ART,Wall Art,0.14,0.16,0.17,0.16,0.19,0.01,0.01,0.03,-0.04,0.05,-0.02,0.07,102.51,No clear change,42.7
+UTILITY_SPONGE,Utility Sponge,0.05,0.05,0.06,0.05,0.06,-0.01,0.01,0.01,-0.0,0.03,-0.0,0.03,119.56,No clear change,59.75
+LIGHT_BULB,Light Bulb,0.25,0.25,0.25,0.24,0.27,-0.0,0.0,0.02,-0.07,0.07,-0.06,0.12,86.94,No clear change,27.13
+MANUAL_SHAVING_RAZOR,Manual Shaving Razor,0.05,0.06,0.06,0.06,0.07,0.01,0.0,0.01,-0.01,0.02,-0.0,0.03,111.69,No clear change,51.88
+LAUNDRY_DETERGENT,Laundry Detergent,0.17,0.22,0.23,0.21,0.22,0.06,0.0,-0.0,-0.04,0.04,-0.06,0.04,68.43,No clear change,8.62
+WASTE_BAG,Waste Bag,0.21,0.26,0.26,0.23,0.26,0.05,0.0,0.0,-0.04,0.05,-0.05,0.05,71.95,No clear change,12.14
+SKIN_FOUNDATION_CONCEALER,Skin Foundation Concealer,0.07,0.06,0.06,0.06,0.06,-0.02,0.0,0.01,-0.02,0.02,-0.02,0.03,88.66,No clear change,28.85
+BODY_LUBRICANT,Body Lubricant,0.09,0.07,0.06,0.07,0.05,-0.02,-0.0,-0.01,-0.02,0.02,-0.03,0.01,44.09,No clear change,-15.72
+BUILDING_MATERIAL,Building Material,0.11,0.09,0.09,0.08,0.09,-0.02,-0.0,-0.0,-0.05,0.05,-0.05,0.04,64.62,No clear change,4.81
+HAT,Hat,0.17,0.19,0.19,0.21,0.23,0.02,0.0,0.04,-0.03,0.04,-0.0,0.09,108.95,No clear change,49.14
+FOOD_STORAGE_BAG,Food Storage Bag,0.06,0.08,0.08,0.07,0.1,0.02,-0.0,0.02,-0.02,0.02,-0.01,0.05,103.72,No clear change,43.91
+ELECTRONIC_CABLE,Electronic Cable,0.59,0.61,0.61,0.56,0.53,0.02,-0.0,-0.08,-0.08,0.07,-0.15,-0.01,49.53,No clear change,-10.28
+ANIMAL_NUTRITIONAL_SUPPLEMENT,Animal Nutritional Supplement,0.2,0.19,0.19,0.22,0.25,-0.01,0.0,0.06,-0.05,0.08,-0.01,0.14,125.45,No clear change,65.64
+HOME_BED_AND_BATH,Home Bed And Bath,0.08,0.07,0.07,0.06,0.04,-0.02,0.0,-0.02,-0.03,0.03,-0.04,0.0,16.97,No clear change,-42.84
+DISHWARE_PLATE,Dishware Plate,0.07,0.07,0.07,0.08,0.08,-0.0,-0.0,0.01,-0.03,0.03,-0.02,0.04,95.87,No clear change,36.06
+SKIN_MOISTURIZER,Skin Moisturizer,0.55,0.57,0.57,0.51,0.53,0.02,-0.0,-0.04,-0.08,0.07,-0.12,0.03,59.17,No clear change,-0.64
+SPORTING_GOODS,Sporting Goods,0.46,0.37,0.37,0.29,0.32,-0.09,-0.0,-0.05,-0.11,0.11,-0.16,0.08,50.62,No clear change,-9.19
+STORAGE_HOOK,Storage Hook,0.08,0.09,0.1,0.11,0.12,0.02,0.0,0.03,-0.02,0.03,0.0,0.05,125.62,No clear change,65.81
+BLANK_BOOK,Blank Book,0.13,0.13,0.13,0.11,0.11,0.01,-0.0,-0.02,-0.04,0.03,-0.06,0.01,41.79,No clear change,-18.02
+LIP_BALM,Lip Balm,0.05,0.05,0.05,0.04,0.06,-0.0,0.0,0.01,-0.01,0.02,-0.0,0.03,120.1,No clear change,60.29
+INSTRUMENT_PARTS_AND_ACCESSORIES,Instrument Parts And Accessories,0.11,0.08,0.08,0.09,0.07,-0.03,-0.0,-0.01,-0.04,0.03,-0.06,0.03,51.04,No clear change,-8.77
+PET_SUPPLIES,Pet Supplies,0.55,0.56,0.56,0.51,0.48,0.01,-0.0,-0.07,-0.1,0.09,-0.17,0.03,48.66,No clear change,-11.15
+TOOLS,Tools,0.24,0.22,0.21,0.2,0.19,-0.02,-0.01,-0.03,-0.1,0.07,-0.11,0.04,46.6,No clear change,-13.21
+WRITING_INSTRUMENT,Writing Instrument,0.31,0.28,0.27,0.24,0.25,-0.02,-0.01,-0.04,-0.09,0.05,-0.14,0.05,48.82,No clear change,-10.99
+VACUUM_CLEANER,Vacuum Cleaner,0.38,0.34,0.33,0.44,0.58,-0.05,-0.01,0.24,-0.14,0.11,0.02,0.6,194.61,No clear change,134.8
+WATCH_BAND,Watch Band,0.11,0.11,0.09,0.11,0.14,-0.0,-0.01,0.03,-0.04,0.01,0.0,0.06,125.55,No clear change,65.74
+LEOTARD,Leotard,0.07,0.07,0.06,0.07,0.08,-0.0,-0.01,0.01,-0.04,0.02,-0.02,0.04,98.22,No clear change,38.41
+COFFEE_MAKER,Coffee Maker,0.24,0.21,0.2,0.26,0.27,-0.03,-0.01,0.06,-0.1,0.08,-0.04,0.16,121.14,No clear change,61.33
+COSMETIC_BRUSH,Cosmetic Brush,0.03,0.04,0.03,0.03,0.03,0.01,-0.01,-0.01,-0.03,0.01,-0.03,0.01,48.69,No clear change,-11.12
+ANIMAL_COLLAR,Animal Collar,0.09,0.09,0.08,0.09,0.08,-0.0,-0.01,-0.01,-0.05,0.03,-0.04,0.02,53.58,No clear change,-6.24
+ASTRINGENT_SUBSTANCE,Astringent Substance,0.07,0.06,0.05,0.04,0.04,-0.02,-0.01,-0.01,-0.03,0.01,-0.04,0.0,27.05,No clear change,-32.76
+BED_LINEN_SET,Bed Linen Set,0.27,0.3,0.29,0.32,0.27,0.02,-0.01,-0.03,-0.07,0.06,-0.09,0.04,55.24,No clear change,-4.57
+BOARD_GAME,Board Game,0.22,0.13,0.12,0.11,0.08,-0.09,-0.01,-0.05,-0.05,0.03,-0.09,-0.01,8.43,"Old trend, continued",-51.38
+BRACELET,Bracelet,0.08,0.07,0.06,0.07,0.07,-0.01,-0.01,0.0,-0.03,0.01,-0.03,0.02,73.25,No clear change,13.44
+ELECTRIC_FAN,Electric Fan,0.28,0.29,0.28,0.29,0.37,0.01,-0.01,0.08,-0.11,0.1,-0.04,0.2,121.59,No clear change,61.78
+HARDWARE_HANDLE,Hardware Handle,0.11,0.12,0.12,0.14,0.17,0.01,-0.01,0.05,-0.06,0.05,-0.02,0.13,143.44,No clear change,83.63
+DRINKING_STRAW,Drinking Straw,0.04,0.04,0.03,0.03,0.03,0.0,-0.01,-0.01,-0.02,-0.0,-0.02,-0.01,9.78,"Lost share, stayed lower",-50.03
+ELECTRONIC_ADAPTER,Electronic Adapter,0.17,0.19,0.18,0.16,0.15,0.02,-0.01,-0.04,-0.05,0.03,-0.08,0.0,36.81,No clear change,-23.0
+TOOTHBRUSH,Toothbrush,0.18,0.13,0.13,0.13,0.17,-0.05,-0.01,0.04,-0.05,0.04,-0.01,0.09,119.3,No clear change,59.49
+SEXUAL_STIMULATION_DEVICE,Sexual Stimulation Device,0.12,0.12,0.11,0.1,0.12,0.0,-0.01,-0.0,-0.06,0.03,-0.06,0.05,68.32,No clear change,8.51
+SKIN_EXFOLIANT,Skin Exfoliant,0.11,0.1,0.09,0.08,0.08,-0.02,-0.01,-0.01,-0.03,0.02,-0.04,0.02,49.28,No clear change,-10.53
+SCREEN_PROTECTOR,Screen Protector,0.26,0.25,0.24,0.21,0.21,-0.01,-0.01,-0.04,-0.05,0.03,-0.08,-0.0,43.37,No clear change,-16.44
+PLANNER,Planner,0.08,0.08,0.08,0.07,0.08,0.01,-0.01,-0.01,-0.03,0.01,-0.03,0.02,56.34,No clear change,-3.48
+LOCK,Lock,0.15,0.12,0.11,0.13,0.13,-0.02,-0.01,0.01,-0.07,0.05,-0.05,0.07,82.38,No clear change,22.57
+APPAREL,Apparel,0.1,0.12,0.1,0.11,0.12,0.03,-0.02,-0.0,-0.06,0.01,-0.04,0.03,70.59,No clear change,10.78
+NECKLACE,Necklace,0.14,0.13,0.11,0.15,0.14,-0.02,-0.02,0.01,-0.05,0.02,-0.03,0.04,82.37,No clear change,22.56
+OFFICE_PRODUCTS,Office Products,0.25,0.19,0.18,0.15,0.13,-0.06,-0.02,-0.06,-0.08,0.06,-0.12,-0.02,17.39,No clear change,-42.42
+OUTDOOR_RECREATION_PRODUCT,Outdoor Recreation Product,0.2,0.16,0.14,0.11,0.15,-0.04,-0.02,-0.01,-0.09,0.04,-0.09,0.06,61.22,No clear change,1.41
+PRINTER,Printer,0.46,0.25,0.23,0.27,0.19,-0.21,-0.02,-0.06,-0.14,0.1,-0.18,0.06,30.7,No clear change,-29.11
+LABEL,Label,0.12,0.11,0.09,0.09,0.11,-0.01,-0.02,-0.0,-0.04,0.01,-0.03,0.03,70.82,No clear change,11.01
+SUNGLASSES,Sunglasses,0.17,0.16,0.14,0.14,0.14,-0.01,-0.02,-0.02,-0.08,0.04,-0.07,0.04,51.9,No clear change,-7.91
+FLASH_DRIVE,Flash Drive,0.12,0.08,0.06,0.06,0.06,-0.04,-0.02,-0.01,-0.04,0.01,-0.04,0.02,45.71,No clear change,-14.1
+ELECTRIC_SHAVER,Electric Shaver,0.11,0.14,0.11,0.12,0.14,0.03,-0.02,-0.0,-0.08,0.04,-0.06,0.06,71.26,No clear change,11.45
+DRINKING_CUP,Drinking Cup,0.31,0.32,0.3,0.29,0.3,0.01,-0.02,-0.01,-0.09,0.06,-0.07,0.04,65.15,No clear change,5.34
+CARRIER_BAG_CASE,Carrier Bag Case,0.13,0.12,0.09,0.1,0.11,-0.01,-0.02,-0.0,-0.07,0.01,-0.05,0.03,65.66,No clear change,5.85
+BOTTLE,Bottle,0.18,0.18,0.17,0.18,0.17,0.01,-0.02,-0.01,-0.06,0.03,-0.05,0.03,60.69,No clear change,0.88
+COMPUTER_DRIVE_OR_STORAGE,Computer Drive Or Storage,0.96,0.8,0.78,0.69,0.54,-0.16,-0.02,-0.26,-0.34,0.42,-0.5,-0.05,15.51,No clear change,-44.3
+GREETING_CARD,Greeting Card,0.05,0.07,0.05,0.07,0.07,0.02,-0.02,0.0,-0.04,0.01,-0.02,0.02,77.74,No clear change,17.93
+SNACK_FOOD_BAR,Snack Food Bar,0.36,0.36,0.34,0.3,0.32,-0.0,-0.02,-0.04,-0.18,0.1,-0.26,0.11,52.81,No clear change,-7.0
+SWEATSHIRT,Sweatshirt,0.14,0.17,0.15,0.19,0.18,0.03,-0.02,0.0,-0.08,0.03,-0.05,0.05,76.0,No clear change,16.19
+SKIN_SERUM,Skin Serum,0.1,0.11,0.08,0.08,0.1,0.0,-0.02,-0.0,-0.06,0.01,-0.04,0.03,66.81,No clear change,7.0
+STORAGE_BAG,Storage Bag,0.11,0.11,0.09,0.11,0.13,0.0,-0.02,0.02,-0.05,0.01,-0.01,0.05,106.47,No clear change,46.66
+TABLETOP_GAME,Tabletop Game,0.32,0.29,0.28,0.28,0.25,-0.02,-0.02,-0.04,-0.08,0.05,-0.12,0.04,48.54,No clear change,-11.27
+SWEATER,Sweater,0.13,0.15,0.13,0.16,0.15,0.02,-0.02,0.0,-0.07,0.03,-0.05,0.05,75.57,No clear change,15.76
+SUNSCREEN,Sunscreen,0.11,0.13,0.11,0.12,0.15,0.01,-0.02,0.03,-0.05,0.01,-0.01,0.07,112.34,No clear change,52.53
+PROTEIN_SUPPLEMENT_POWDER,Protein Supplement Powder,0.39,0.36,0.34,0.3,0.37,-0.03,-0.03,0.0,-0.12,0.05,-0.1,0.11,73.89,No clear change,14.08
+BRA,Bra,0.36,0.36,0.34,0.47,0.45,-0.0,-0.03,0.09,-0.12,0.06,-0.03,0.24,115.62,No clear change,55.81
+INCONTINENCE_PROTECTOR,Incontinence Protector,0.53,0.51,0.48,0.4,0.36,-0.02,-0.03,-0.15,-0.14,0.09,-0.3,-0.01,21.42,No clear change,-38.39
+AUTO_PART,Auto Part,0.17,0.18,0.15,0.18,0.19,0.01,-0.03,0.02,-0.11,0.05,-0.08,0.12,86.19,No clear change,26.38
+APPAREL_BELT,Apparel Belt,0.07,0.1,0.06,0.07,0.08,0.02,-0.03,-0.01,-0.06,-0.01,-0.04,0.01,48.23,"Lost share, then recovered",-11.58
+SHOE_INSERT,Shoe Insert,0.09,0.11,0.07,0.07,0.08,0.02,-0.04,-0.02,-0.07,-0.01,-0.06,0.01,35.91,"Lost share, then recovered",-23.9
+PORTABLE_ELECTRONIC_DEVICE_MOUNT,Portable Electronic Device Mount,0.14,0.14,0.1,0.12,0.14,-0.0,-0.04,-0.0,-0.09,0.0,-0.07,0.06,71.07,No clear change,11.26
+REMOTE_CONTROL,Remote Control,0.12,0.12,0.07,0.08,0.07,-0.01,-0.04,-0.04,-0.08,-0.01,-0.08,-0.01,5.81,"Lost share, stayed lower",-54.0
+RECREATION_BALL,Recreation Ball,0.1,0.13,0.09,0.1,0.1,0.03,-0.04,-0.03,-0.09,0.01,-0.09,0.02,29.04,No clear change,-30.77
+COSTUME_OUTFIT,Costume Outfit,0.11,0.14,0.1,0.11,0.14,0.02,-0.04,0.01,-0.09,0.0,-0.05,0.05,78.31,No clear change,18.5
+BEAUTY,Beauty,0.41,0.39,0.35,0.32,0.38,-0.02,-0.04,-0.01,-0.1,0.03,-0.12,0.24,68.43,No clear change,8.62
+BODY_POSITIONER,Body Positioner,0.22,0.24,0.2,0.24,0.22,0.02,-0.04,-0.02,-0.1,0.02,-0.08,0.04,59.75,No clear change,-0.06
+CHARGING_ADAPTER,Charging Adapter,0.32,0.36,0.32,0.42,0.45,0.03,-0.04,0.09,-0.09,0.02,0.02,0.15,115.1,No clear change,55.29
+HAIR_STYLING_AGENT,Hair Styling Agent,0.19,0.21,0.17,0.16,0.18,0.03,-0.04,-0.03,-0.08,0.0,-0.08,0.01,47.9,No clear change,-11.91
+FIGURINE,Figurine,0.13,0.17,0.13,0.18,0.12,0.04,-0.04,-0.05,-0.1,0.01,-0.11,0.01,21.38,No clear change,-38.43
+SOCKS,Socks,0.32,0.37,0.33,0.34,0.35,0.04,-0.04,-0.02,-0.1,0.01,-0.08,0.03,61.03,No clear change,1.22
+RING,Ring,0.16,0.12,0.08,0.09,0.1,-0.04,-0.04,-0.02,-0.1,0.01,-0.1,0.03,37.81,No clear change,-22.0
+ORTHOPEDIC_BRACE,Orthopedic Brace,0.19,0.22,0.18,0.18,0.18,0.03,-0.04,-0.04,-0.08,0.01,-0.09,0.01,40.27,No clear change,-19.54
+MAJOR_HOME_APPLIANCES,Major Home Appliances,0.09,0.1,0.06,0.07,0.07,0.01,-0.04,-0.03,-0.08,0.0,-0.07,0.01,26.71,No clear change,-33.1
+MEAL_HOLDER,Meal Holder,0.08,0.09,0.05,0.07,0.09,0.01,-0.04,-0.0,-0.06,-0.01,-0.03,0.02,68.27,"Lost share, then recovered",8.46
+MATTRESS_COVER,Mattress Cover,0.27,0.26,0.21,0.25,0.23,-0.01,-0.05,-0.03,-0.12,0.02,-0.11,0.04,51.74,No clear change,-8.07
+INKJET_PRINTER_INK,Inkjet Printer Ink,0.36,0.34,0.29,0.27,0.28,-0.02,-0.05,-0.06,-0.14,0.02,-0.14,0.02,42.66,No clear change,-17.15
+SPEAKERS,Speakers,0.48,0.43,0.37,0.39,0.32,-0.05,-0.05,-0.11,-0.21,0.1,-0.26,0.03,29.08,No clear change,-30.73
+BABY_PRODUCT,Baby Product,0.31,0.24,0.19,0.18,0.23,-0.07,-0.05,-0.02,-0.11,0.02,-0.08,0.07,61.05,No clear change,1.24
+CELLULAR_PHONE,Cellular Phone,0.78,0.69,0.64,1.02,0.75,-0.09,-0.05,0.06,-0.36,0.21,-0.24,0.34,86.45,No clear change,26.64
+VIDEO_GAME_CONTROLLER,Video Game Controller,0.17,0.26,0.21,0.19,0.16,0.09,-0.05,-0.1,-0.18,0.04,-0.22,-0.01,6.48,No clear change,-53.33
+TOYS_AND_GAMES,Toys And Games,0.59,0.52,0.47,0.41,0.44,-0.07,-0.05,-0.08,-0.14,0.04,-0.16,0.0,45.41,No clear change,-14.4
+POWER_BANK,Power Bank,0.11,0.13,0.08,0.1,0.14,0.02,-0.05,0.01,-0.09,-0.01,-0.03,0.05,86.43,"Lost share, then recovered",26.62
+PERSONAL_FRAGRANCE,Personal Fragrance,0.11,0.13,0.08,0.09,0.09,0.02,-0.05,-0.04,-0.1,-0.01,-0.09,-0.0,13.06,"Lost share, stayed lower",-46.75
+PET_PEST_CONTROL,Pet Pest Control,0.23,0.24,0.18,0.14,0.16,0.01,-0.06,-0.08,-0.12,0.0,-0.16,-0.01,12.67,No clear change,-47.14
+HOME,Home,0.51,0.39,0.33,0.28,0.3,-0.13,-0.06,-0.09,-0.13,0.01,-0.17,0.01,33.78,No clear change,-26.03
+WALLET,Wallet,0.12,0.14,0.07,0.1,0.1,0.02,-0.06,-0.03,-0.09,-0.03,-0.07,-0.0,31.99,"Lost share, stayed lower",-27.82
+STANDALONE_STREAMING_MEDIA_PLAYER,Standalone Streaming Media Player,0.34,0.17,0.11,0.1,0.1,-0.17,-0.06,-0.07,-0.13,0.0,-0.14,-0.01,0.12,"Old trend, continued",-59.69
+FLASH_MEMORY,Flash Memory,0.29,0.26,0.19,0.17,0.17,-0.03,-0.07,-0.09,-0.12,-0.02,-0.15,-0.04,12.18,"Lost share, stayed lower",-47.63
+WATCH,Watch,0.23,0.16,0.09,0.09,0.08,-0.07,-0.07,-0.08,-0.14,0.01,-0.14,-0.01,-12.8,No clear change,-72.61
+PANTS,Pants,0.9,0.96,0.88,1.06,0.99,0.07,-0.08,0.03,-0.25,0.08,-0.15,0.19,76.25,No clear change,16.44
+AUTO_ACCESSORY,Auto Accessory,0.2,0.27,0.19,0.21,0.27,0.07,-0.08,0.0,-0.27,0.03,-0.19,0.13,73.85,No clear change,14.04
+HEALTH_PERSONAL_CARE,Health Personal Care,1.05,0.85,0.77,0.72,0.81,-0.19,-0.09,-0.05,-0.21,0.04,-0.19,0.1,62.6,No clear change,2.79
+WIRELESS_ACCESSORY,Wireless Accessory,0.19,0.17,0.07,0.06,0.06,-0.02,-0.09,-0.1,-0.15,-0.03,-0.16,-0.05,-35.84,"Lost share, stayed lower",-95.65
+ABIS_MUSIC,Music (physical),0.34,0.26,0.16,0.23,0.14,-0.08,-0.1,-0.12,-0.18,-0.04,-0.21,-0.05,-7.64,"Lost share, stayed lower",-67.45
+COAT,Coat,0.26,0.26,0.16,0.22,0.25,0.0,-0.1,-0.02,-0.21,-0.02,-0.12,0.07,59.54,"Lost share, then recovered",-0.27
+SANDAL,Sandal,0.39,0.38,0.27,0.31,0.47,-0.01,-0.1,0.09,-0.19,-0.02,-0.01,0.23,114.23,"Lost share, then recovered",54.42
+PHYSICAL_MOVIE,Physical Movie,0.57,0.37,0.25,0.23,0.13,-0.19,-0.12,-0.25,-0.21,-0.04,-0.39,-0.13,-41.49,"Old trend, continued",-101.3
+DIGITAL_DEVICE_3,Digital Device 3,0.37,0.31,0.19,0.23,0.21,-0.06,-0.12,-0.11,-0.21,-0.04,-0.2,0.0,13.47,"Lost share, then recovered",-46.34
+BLANKET,Blanket,0.34,0.48,0.36,0.42,0.35,0.14,-0.12,-0.13,-0.21,-0.01,-0.23,-0.02,24.37,"Lost share, stayed lower",-35.44
+HANDBAG,Handbag,0.21,0.25,0.12,0.18,0.19,0.04,-0.13,-0.07,-0.21,-0.05,-0.14,0.0,27.15,"Lost share, then recovered",-32.66
+CELLULAR_PHONE_CASE,Cellular Phone Case,0.67,0.66,0.52,0.5,0.56,-0.01,-0.15,-0.1,-0.22,-0.07,-0.18,-0.03,46.3,"Lost share, stayed lower",-13.51
+NUTRITIONAL_SUPPLEMENT,Nutritional Supplement,1.77,1.76,1.6,1.53,1.58,-0.01,-0.15,-0.18,-0.35,0.02,-0.44,0.07,54.47,No clear change,-5.34
+SWIMWEAR,Swimwear,0.29,0.42,0.26,0.41,0.51,0.13,-0.16,0.1,-0.24,-0.07,-0.0,0.19,112.2,"Lost share, then recovered",52.39
+BOOT,Boot,0.43,0.46,0.29,0.34,0.31,0.02,-0.17,-0.14,-0.3,-0.04,-0.28,-0.02,17.25,"Lost share, stayed lower",-42.56
+BACKPACK,Backpack,0.34,0.38,0.2,0.2,0.27,0.04,-0.18,-0.11,-0.27,-0.1,-0.2,-0.04,20.95,"Lost share, stayed lower",-38.86
+MATTRESS,Mattress,0.7,0.81,0.59,0.68,0.56,0.1,-0.22,-0.25,-0.51,0.04,-0.53,0.02,19.55,No clear change,-40.26
+SHIRT,Shirt,1.08,1.32,1.08,1.37,1.45,0.24,-0.23,0.13,-0.39,-0.09,-0.05,0.32,88.24,"Lost share, then recovered",28.43
+DRESS,Dress,0.52,0.63,0.36,0.59,0.82,0.11,-0.27,0.19,-0.4,-0.13,0.03,0.35,122.74,"Lost share, then recovered",62.93
+PHYSICAL_VIDEO_GAME_SOFTWARE,Physical Video Game Software,1.14,0.88,0.61,0.47,0.41,-0.26,-0.28,-0.47,-0.41,-0.15,-0.61,-0.33,-20.57,"Old trend, continued",-80.38
+SHOES,Shoes,1.8,1.76,1.35,1.41,1.45,-0.04,-0.41,-0.3,-0.64,-0.22,-0.6,-0.07,42.02,"Lost share, stayed lower",-17.79
+ABIS_BOOK,Books,5.66,4.65,3.41,2.78,2.44,-1.01,-1.24,-2.21,-1.66,-0.88,-2.66,-1.82,-10.03,"Old trend, continued",-69.84
